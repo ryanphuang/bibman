@@ -1,0 +1,4 @@
+bibman
+======
+
+Bibtex manager
